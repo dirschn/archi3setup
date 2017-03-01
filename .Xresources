@@ -1,0 +1,20 @@
+xterm.foreground=#cccccc
+xterm.background=#000000
+
+
+! State:           ´bg´,     ´fg´,     ´bgalt´,  ´hlbg´,   ´hlfg´
+rofi.color-normal: #00202020,  #ffffff,  #00202020,  #00202020,  #909090
+rofi.color-urgent: #00202020,  #ffffff,  #00202020,  #00202020,  #909090
+rofi.color-active: #00202020,  #ffffff,  #00202020,  #00202020,  #909090
+
+!                  ´background´, ´border´
+rofi.color-window: #dd202020,      #dd202020
+
+
+rofi.font:            "System San Francisco Display" 18
+rofi.borderwidth:     300
+rofi.padding:         00
+rofi.lines:           1
+rofi.fixed-num-lines: true
+rofi.fullscreen:      true
+rofi.hide-scrollbar:  true
